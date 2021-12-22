@@ -1,8 +1,13 @@
 # GraalVM
 
 ## Table of contents
+* [Samples](#samples)
 * [Installation](#installation)
 
+## Samples
+* Java
+* Javascript
+* Python
 
 ## Installation
 
